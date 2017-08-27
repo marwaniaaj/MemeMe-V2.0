@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MemeCollectionViewController.adjustFlowLayout(size : CGSize) -&gt; ():MemeCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.memeControlles(hide : Bool) -&gt; ():MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bottomTextField.isHidden">
+            </PersistentString>
+            <PersistentString
+               value = "topTextField.isHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeCollectionViewController.adjustFlowLayout(to : CGSize) -&gt; ():MemeCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeViewerViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():MemeViewerViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeCollectionViewController.collectionView(UICollectionView, cellForItemAt : IndexPath) -&gt; UICollectionViewCell:MemeCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.keyboardWillShow(notification : Notification) -&gt; ():MemeEditorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.viewDidLoad() -&gt; ():MemeTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.viewWillAppear(Bool) -&gt; ():MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePicker.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "meme.image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.viewWillAppear(Bool) -&gt; ():MemeTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeCollectionViewController.viewWillTransition(to : CGSize, with : UIViewControllerTransitionCoordinator) -&gt; ():MemeCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.getKeyboardHeight(notification : Notification) -&gt; CGFloat:MemeEditorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.imagePicker.getter:MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePicker.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeViewerViewController.editMeme(Any) -&gt; ():MemeViewerViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.generatedMemeImage() -&gt; UIImage:MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topTextField.frame.origin">
+            </PersistentString>
+            <PersistentString
+               value = "imagePicker.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "bottomTextField.frame.origin">
+            </PersistentString>
+            <PersistentString
+               value = "image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeTableViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:MemeTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.memeImageView.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "cell.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "meme.image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.setTextFieldsAttributes() -&gt; ():MemeEditorViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
